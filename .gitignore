@@ -137,3 +137,9 @@ google*.html
 
 # draft
 draft.md
+
+# rendered
+index.html
+
+# gimp
+*.xcf
