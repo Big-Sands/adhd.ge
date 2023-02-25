@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# editor
+.idea
+.vscode
+
+# google
+google*.html
+
+# draft
+draft.md
