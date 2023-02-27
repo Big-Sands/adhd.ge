@@ -26,7 +26,7 @@ articles = [
         "last_update_str": "Page last updated on:",
         "file": "contents.en.md",
         "canonical": "https://adhd.ge/index.en.html",
-        "initial_publish_date": "2022-12-03T21:52:42.449005+04:00"
+        "initial_publish_date": "2023-02-27T23:49:05.595561+04:00"
     }
 ]
 
