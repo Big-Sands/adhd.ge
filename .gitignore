@@ -140,6 +140,7 @@ draft.md
 
 # rendered
 index.html
+index.*.html
 *.zip
 
 # gimp

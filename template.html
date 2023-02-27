@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html lang="ka">
+<html lang="{{ METADATA_LANG }}">
     <head>
-        <title>ADHD საქართველოში - ყურადღების დეფიციტის ჰიპერაქტიურობის აშლილობა (ადჰდ)</title>
-        <link rel="canonical" href="https://adhd.ge/">
-        <meta property="og:title" content="ADHD საქართველოში - ყურადღების დეფიციტის ჰიპერაქტიურობის აშლილობა (ადჰდ)">
+        <title>{{ METADATA_TITLE }}</title>
+        <link rel="canonical" href="{{ METADATA_CANONICAL_URL }}">
+        <meta property="og:title" content="{{ METADATA_TITLE }}">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://adhd.ge/">
 
-        <meta property="og:description" content="ერთად გავზარდოთ ცნობიერება ADHD-ს მიმართ საქართველოს ჯანდაცვის სისტემაში!">
+        <meta property="og:description" content="{{ METADATA_DESCRIPTION }}">
         <meta property="og:site_name" content="ADHD.ge">
 
-        <meta property="article:published_time" content="{{ published_timestamp.isoformat() }}">
-        <meta property="article:modified_time" content="{{ modified_timestamp.isoformat() }}">
-        <meta property="article:expiration_time" content="{{ expiration_timestamp.isoformat() }}">
+        <meta property="article:published_time" content="{{ METADATA_PUBLISHED_TIMESTAMP }}">
+        <meta property="article:modified_time" content="{{ METADATA_MODIFIED_TIMESTAMP }}">
+        <meta property="article:expiration_time" content="{{ METADATA_EXPIRATION_TIMESTAMP }}">
         <!-- <meta property="article:author" content="" /> -->
         <meta property="article:section" content="Healthcare">
         <meta property="article:tag" content="adhd">
 
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="description" content="ერთად გავზარდოთ ცნობიერება ADHD-ს მიმართ საქართველოს ჯანდაცვის სისტემაში!">
+        <meta name="description" content="{{ METADATA_DESCRIPTION }}">
 
         <meta name=viewport content="width=device-width, initial-scale=1">
         <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
@@ -29,9 +29,7 @@
             <div class="container">
                 <a href="/" class="navbar-brand">ADHD.ge</a>
                 <ul class="navbar-nav">
-                    <!--<li class="nav-item">
-                        <a href="/" class="nav-link active" aria-current="page">მთავარი გვერდი</a>
-                    </li>-->
+                    {{ HTML_EXTRA_NAV }}
                     <li class="nav-item">
                         <a href="https://twitter.com/ADHDge" target="_blank" class="nav-link">Twitter</a>
                     </li>
@@ -49,7 +47,7 @@
             <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
                 <div class="d-flex align-items-center">
                     <span class="mb-3 mb-md-0 text-muted">
-                        გვერდის ბოლო განახლების თარიღი: {{ last_update_readable }} <br>
+                        {{ LANG_LAST_UPDATE_STR }} {{ LAST_UPDATE_READABLE }} <br>
                         <a href="https://github.com/Big-Sands/adhd.ge" target="_blank">Source code</a>
                     </span>
                 </div>
