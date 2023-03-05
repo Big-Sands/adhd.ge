@@ -68,7 +68,7 @@ for article in articles:
 
     extra_navs = {
         "index.html": "<li class=\"nav-item\"><a href=\"/\" class=\"nav-link\">🇬🇪 ქართული</a></li>",
-        "index.en.html": "<li class=\"nav-item\"><a href=\"/index-en.html\" class=\"nav-link\">🇬🇧 English</a></li>"
+        "index-en.html": "<li class=\"nav-item\"><a href=\"/index-en.html\" class=\"nav-link\">🇬🇧 English</a></li>"
     }
 
     for FILENAME, HTML in extra_navs.items():
