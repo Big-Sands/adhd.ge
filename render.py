@@ -10,7 +10,9 @@ import pytz
 articles = [
     {
         "export_filename": "index.html",
+        "url": "/",
         "lang": "ka",
+        "lang_name": "🇬🇪 ქართული",
         "title": "ADHD საქართველოში - ყურადღების დეფიციტის ჰიპერაქტიურობის აშლილობა (ადჰდ)",
         "description": "ერთად გავზარდოთ ცნობიერება ADHD-ს მიმართ საქართველოს ჯანდაცვის სისტემაში!",
         "last_update_str": "გვერდის ბოლო განახლების თარიღი:",
@@ -20,7 +22,9 @@ articles = [
     },
     {
         "export_filename": "index-en.html",
+        "url": "/index-en.html",
         "lang": "en",
+        "lang_name": "🇬🇧 English",
         "title": "ADHD in Georgia - Attention deficit hyperactivity disorder",
         "description": "Let's raise awareness of ADHD in the Georgian healthcare system together!",
         "last_update_str": "Page last updated on:",
@@ -66,14 +70,9 @@ for article in articles:
         "HTML_EXTRA_NAV": ""
     }
 
-    extra_navs = {
-        "index.html": "<li class=\"nav-item\"><a href=\"/\" class=\"nav-link\">🇬🇪 ქართული</a></li>",
-        "index-en.html": "<li class=\"nav-item\"><a href=\"/index-en.html\" class=\"nav-link\">🇬🇧 English</a></li>"
-    }
-
-    for FILENAME, HTML in extra_navs.items():
-        if not FILENAME == article["export_filename"]:
-            metadata["HTML_EXTRA_NAV"] += HTML
+    for article2 in articles:
+        if not article2["export_filename"] == article["export_filename"]:
+            metadata["HTML_EXTRA_NAV"] += f"<li class=\"nav-item\"><a href=\"{article2['url']}\" class=\"nav-link\">{article2['lang_name']}</a></li>"
 
     for TAG, VALUE in metadata.items():
         rendered_page = rendered_page.replace("{{ " + TAG + " }}", VALUE)
