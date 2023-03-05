@@ -19,13 +19,13 @@ articles = [
         "initial_publish_date": "2022-12-03T21:52:42.449005+04:00"
     },
     {
-        "export_filename": "index.en.html",
+        "export_filename": "index-en.html",
         "lang": "en",
         "title": "ADHD in Georgia - Attention deficit hyperactivity disorder",
         "description": "Let's raise awareness of ADHD in the Georgian healthcare system together!",
         "last_update_str": "Page last updated on:",
         "file": "articles/contents-en.md",
-        "canonical": "https://adhd.ge/index.en.html",
+        "canonical": "https://adhd.ge/index-en.html",
         "initial_publish_date": "2023-02-27T23:49:05.595561+04:00"
     }
 ]
