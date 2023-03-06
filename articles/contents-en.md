@@ -180,7 +180,11 @@ especially if nothing has happened in the last few decades.
 
 In past this section said that this task is in the competency of The **Ministry of Health**, but recently I have gotten response from the Ministry of Health, bellow is a small translated excerpt:
 
-> In "Law of Georgia on Medicines and Pharmaceutical Activities", according to Article 1¹, Clause 49, registration of a pharmaceutical product can be carried out by the manufacturer, trade license holder, importer or any other natural or legal person interested in placing the pharmaceutical product on the market. And the wholesale distributor has the right to import the pharmaceutical product (Clause 21 of Article 11 of the same law), who is authorized to carry out operations related to the purchase, storage, supply, export, import and re-export of pharmaceutical products, in compliance with the rules established by law. Therefore, Minister of IDPs from the occupied territories, labour, health and social affairs of Georgia is deprived of the opportunity to register and/or import pharmaceutical products.
+<div class="card mb-4">
+  <div class="card-body">
+In "Law of Georgia on Medicines and Pharmaceutical Activities", according to Article 1¹, Clause 49, registration of a pharmaceutical product can be carried out by the manufacturer, trade license holder, importer or any other natural or legal person interested in placing the pharmaceutical product on the market. And the wholesale distributor has the right to import the pharmaceutical product (Clause 21 of Article 11 of the same law), who is authorized to carry out operations related to the purchase, storage, supply, export, import and re-export of pharmaceutical products, in compliance with the rules established by law. Therefore, Minister of IDPs from the occupied territories, labour, health and social affairs of Georgia is deprived of the opportunity to register and/or import pharmaceutical products.
+  </div>
+</div>
 
 I am currently looking for the next course of action according this statement. If you have any ideas, contact me on the email provided at the bottom of this page. If you know someone who is involved in pharmaceutical business, please show them our page.
 
