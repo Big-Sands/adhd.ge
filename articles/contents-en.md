@@ -74,13 +74,93 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
   - [Синдром дефицита внимания и гиперактивности - Википедия](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%B4%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D1%82%D0%B0_%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
 
 ### English (YouTube videos):
-  - [How ADHD Affects Adults | ADHD - Not Just for Kids (Full Documentary) | Only Human](https://www.youtube.com/watch?v=jyUVc0Iteb0)
-  - [Why Stimulants Help ADHD - SciShow Psych](https://www.youtube.com/watch?v=yoX0vEDn5a4)
-  - [ADHD in Adulthood: The Signs You Need to Know - MedCircle](https://www.youtube.com/watch?v=-8J4wl9eUe4)
-  - [What is ADHD? - Psych Hub](https://www.youtube.com/watch?v=5l2RIOhDXvU)
-  - [ADHD diagnoses on the rise in adults, here are the symptoms - WXYZ-TV Detroit | Channel 7](https://www.youtube.com/watch?v=JrI7Es_YtJ8)
-  - [ADHD: The Misunderstood Disorder (Short Documentary) - ADHD Vision](https://www.youtube.com/watch?v=rQC_MymDaTY)
-  - [Failing at Normal: An ADHD Success Story | Jessica McCabe | TEDxBratislava](https://www.youtube.com/watch?v=JiwZQNYlGQI)
+<div class="row">
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <img src="https://i.ytimg.com/vi/jyUVc0Iteb0/maxresdefault.jpg" class="card-img-top" alt="jyUVc0Iteb0">
+      <div class="card-body">
+        <h5 class="card-title">How ADHD Affects Adults | ADHD - Not Just for Kids (Full Documentary)</h5>
+        <h6 class="card-subtitle mb-2 text-muted">41:15</h6>
+        <a href="https://www.youtube.com/watch?v=jyUVc0Iteb0" class="btn btn-primary stretched-link">Watch</a>
+      </div>
+      <div class="card-footer text-muted">Only Human</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <img src="https://i.ytimg.com/vi/yoX0vEDn5a4/maxresdefault.jpg" class="card-img-top" alt="yoX0vEDn5a4">
+      <div class="card-body">
+        <h5 class="card-title">Why Stimulants Help ADHD</h5>
+        <h6 class="card-subtitle mb-2 text-muted">6:08</h6>
+        <a href="https://www.youtube.com/watch?v=yoX0vEDn5a4" class="btn btn-primary stretched-link">Watch</a>
+      </div>
+      <div class="card-footer text-muted">SciShow Psych</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <img src="https://i.ytimg.com/vi/-8J4wl9eUe4/maxresdefault.jpg" class="card-img-top" alt="-8J4wl9eUe4">
+      <div class="card-body">
+        <h5 class="card-title">ADHD in Adulthood: The Signs You Need to Know</h5>
+        <h6 class="card-subtitle mb-2 text-muted">10:06</h6>
+        <a href="https://www.youtube.com/watch?v=-8J4wl9eUe4" class="btn btn-primary stretched-link">Watch</a>
+      </div>
+      <div class="card-footer text-muted">MedCircle</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <img src="https://i.ytimg.com/vi/5l2RIOhDXvU/maxresdefault.jpg" class="card-img-top" alt="5l2RIOhDXvU">
+      <div class="card-body">
+        <h5 class="card-title">What is ADHD?</h5>
+        <h6 class="card-subtitle mb-2 text-muted">4:28</h6>
+        <a href="https://www.youtube.com/watch?v=5l2RIOhDXvU" class="btn btn-primary stretched-link">Watch</a>
+      </div>
+      <div class="card-footer text-muted">Psych Hub</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <img src="https://i.ytimg.com/vi/JrI7Es_YtJ8/maxresdefault.jpg" class="card-img-top" alt="JrI7Es_YtJ8">
+      <div class="card-body">
+        <h5 class="card-title">ADHD diagnoses on the rise in adults, here are the symptoms</h5>
+        <h6 class="card-subtitle mb-2 text-muted">3:29</h6>
+        <a href="https://www.youtube.com/watch?v=JrI7Es_YtJ8" class="btn btn-primary stretched-link">Watch</a>
+      </div>
+      <div class="card-footer text-muted">WXYZ-TV Detroit | Channel 7</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <img src="https://i.ytimg.com/vi/rQC_MymDaTY/maxresdefault.jpg" class="card-img-top" alt="rQC_MymDaTY">
+      <div class="card-body">
+        <h5 class="card-title">ADHD: The Misunderstood Disorder (Short Documentary)</h5>
+        <h6 class="card-subtitle mb-2 text-muted">10:33</h6>
+        <a href="https://www.youtube.com/watch?v=rQC_MymDaTY" class="btn btn-primary stretched-link">Watch</a>
+      </div>
+      <div class="card-footer text-muted">ADHD Vision</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <img src="https://i.ytimg.com/vi/JiwZQNYlGQI/maxresdefault.jpg" class="card-img-top" alt="JiwZQNYlGQI">
+      <div class="card-body">
+        <h5 class="card-title">Failing at Normal: An ADHD Success Story | Jessica McCabe</h5>
+        <h6 class="card-subtitle mb-2 text-muted">17:12</h6>
+        <a href="https://www.youtube.com/watch?v=JiwZQNYlGQI" class="btn btn-primary stretched-link">Watch</a>
+      </div>
+      <div class="card-footer text-muted">TEDxBratislava</div>
+    </div>
+  </div>
+
+</div>
 
 # What medication do we need for ADHD, what do and don't we have available in Georgia?
 ADHD medication is split into 2 groups, stimulants and non-stimulants. In this table, I only added the most common medication.
