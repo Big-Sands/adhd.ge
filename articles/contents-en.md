@@ -43,21 +43,25 @@ In [ICD-10](https://icd.who.int/browse10/2019/en#/) Disease Database ADHD is,
 F90.0, F90.1, F90.2, F90.8, F90.9.
 
 # How to treat ADHD?
-The simplest and the most effective treatment for ADHD is treatment by medication.
-ADHD is caused by the lack of specific neurotransmitters, norepinephrine (and/or dopamine) in brain
-and by treating this by daily medication is how you treat ADHD.
+ADHD is caused by a deficiency of specific neurotransmitters in the brain, norepinephrine and/or dopamine,
+and is treated by daily correction using medication. Medicines that are not available in Georgia for an unknown reason.
 
-There are non-medication methods, "therapy", but if it helps,
-(especially without combining it with medication), there would be no demand for medication.
-This "therapy" cannot fix the the neurotransmitter disbalance.
+There is a non-medicated methods, "therapy", but it is often combined with medication.
+The main purpose of therapy is to deal with minor problems that medication cannot deal with.
+
+Therapy without medication is not the primary treatment for ADHD. Because the effectiveness of this is often
+questionable, it is a very long process, it takes months, while the medicine (stimulant) works in half an hour,
+the long process also means many visits to the psychiatrist, which will be very expensive in total,
+and this non-drug "therapy" cannot correct the imbalance of neurotransmitters by itself.
 
 According to one article "The view that attention deficit can be overcome by willpower is as cynical
 as advising a blind person to see by changing their lifestyle."
 
 The equivalent of blindness for this "therapy" would be to help the blind person live with his other senses
-(hearing, smell, touch, thermoception, etc.), but the main problem would not be solved.
+(hearing, smell, touch, etc.), but the main problem would not be solved.
 This will simply be an attempt to avoid the problem.
 
+(NOTE: I need help rewriting this section to be as objective and factually accurate as possible.)
 
 # Other sources of information.
 I am not a doctor, not a psychiatrist, so, bellow I list other sources that go more in depth about ADHD.
@@ -78,11 +82,12 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
 
   <div class="col-md-3 mb-1">
     <div class="card">
-      <img src="https://i.ytimg.com/vi/jyUVc0Iteb0/maxresdefault.jpg" class="card-img-top" alt="jyUVc0Iteb0">
+      <a href="https://www.youtube.com/watch?v=jyUVc0Iteb0" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/jyUVc0Iteb0/maxresdefault.jpg" class="card-img-top" alt="jyUVc0Iteb0">
+      </a>
       <div class="card-body">
         <h5 class="card-title">How ADHD Affects Adults | ADHD - Not Just for Kids (Full Documentary)</h5>
-        <h6 class="card-subtitle mb-2 text-muted">41:15</h6>
-        <a href="https://www.youtube.com/watch?v=jyUVc0Iteb0" class="btn btn-primary stretched-link">Watch</a>
+        <h6 class="card-subtitle text-muted">41:15</h6>
       </div>
       <div class="card-footer text-muted">Only Human</div>
     </div>
@@ -90,11 +95,12 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
 
   <div class="col-md-3 mb-1">
     <div class="card">
-      <img src="https://i.ytimg.com/vi/yoX0vEDn5a4/maxresdefault.jpg" class="card-img-top" alt="yoX0vEDn5a4">
+      <a href="https://www.youtube.com/watch?v=yoX0vEDn5a4" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/yoX0vEDn5a4/maxresdefault.jpg" class="card-img-top" alt="yoX0vEDn5a4">
+      </a>
       <div class="card-body">
         <h5 class="card-title">Why Stimulants Help ADHD</h5>
-        <h6 class="card-subtitle mb-2 text-muted">6:08</h6>
-        <a href="https://www.youtube.com/watch?v=yoX0vEDn5a4" class="btn btn-primary stretched-link">Watch</a>
+        <h6 class="card-subtitle text-muted">6:08</h6>
       </div>
       <div class="card-footer text-muted">SciShow Psych</div>
     </div>
@@ -102,11 +108,12 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
 
   <div class="col-md-3 mb-1">
     <div class="card">
-      <img src="https://i.ytimg.com/vi/-8J4wl9eUe4/maxresdefault.jpg" class="card-img-top" alt="-8J4wl9eUe4">
+      <a href="https://www.youtube.com/watch?v=-8J4wl9eUe4" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/-8J4wl9eUe4/maxresdefault.jpg" class="card-img-top" alt="-8J4wl9eUe4">
+      </a>
       <div class="card-body">
         <h5 class="card-title">ADHD in Adulthood: The Signs You Need to Know</h5>
-        <h6 class="card-subtitle mb-2 text-muted">10:06</h6>
-        <a href="https://www.youtube.com/watch?v=-8J4wl9eUe4" class="btn btn-primary stretched-link">Watch</a>
+        <h6 class="card-subtitle text-muted">10:06</h6>
       </div>
       <div class="card-footer text-muted">MedCircle</div>
     </div>
@@ -114,11 +121,12 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
 
   <div class="col-md-3 mb-1">
     <div class="card">
-      <img src="https://i.ytimg.com/vi/5l2RIOhDXvU/maxresdefault.jpg" class="card-img-top" alt="5l2RIOhDXvU">
+      <a href="https://www.youtube.com/watch?v=5l2RIOhDXvU" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/5l2RIOhDXvU/maxresdefault.jpg" class="card-img-top" alt="5l2RIOhDXvU">
+      </a>
       <div class="card-body">
         <h5 class="card-title">What is ADHD?</h5>
-        <h6 class="card-subtitle mb-2 text-muted">4:28</h6>
-        <a href="https://www.youtube.com/watch?v=5l2RIOhDXvU" class="btn btn-primary stretched-link">Watch</a>
+        <h6 class="card-subtitle text-muted">4:28</h6>
       </div>
       <div class="card-footer text-muted">Psych Hub</div>
     </div>
@@ -126,11 +134,12 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
 
   <div class="col-md-3 mb-1">
     <div class="card">
-      <img src="https://i.ytimg.com/vi/JrI7Es_YtJ8/maxresdefault.jpg" class="card-img-top" alt="JrI7Es_YtJ8">
+      <a href="https://www.youtube.com/watch?v=JrI7Es_YtJ8" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/JrI7Es_YtJ8/maxresdefault.jpg" class="card-img-top" alt="JrI7Es_YtJ8">
+      </a>
       <div class="card-body">
         <h5 class="card-title">ADHD diagnoses on the rise in adults, here are the symptoms</h5>
-        <h6 class="card-subtitle mb-2 text-muted">3:29</h6>
-        <a href="https://www.youtube.com/watch?v=JrI7Es_YtJ8" class="btn btn-primary stretched-link">Watch</a>
+        <h6 class="card-subtitle text-muted">3:29</h6>
       </div>
       <div class="card-footer text-muted">WXYZ-TV Detroit | Channel 7</div>
     </div>
@@ -138,11 +147,12 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
 
   <div class="col-md-3 mb-1">
     <div class="card">
-      <img src="https://i.ytimg.com/vi/rQC_MymDaTY/maxresdefault.jpg" class="card-img-top" alt="rQC_MymDaTY">
+      <a href="https://www.youtube.com/watch?v=rQC_MymDaTY" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/rQC_MymDaTY/maxresdefault.jpg" class="card-img-top" alt="rQC_MymDaTY">
+      </a>
       <div class="card-body">
         <h5 class="card-title">ADHD: The Misunderstood Disorder (Short Documentary)</h5>
-        <h6 class="card-subtitle mb-2 text-muted">10:33</h6>
-        <a href="https://www.youtube.com/watch?v=rQC_MymDaTY" class="btn btn-primary stretched-link">Watch</a>
+        <h6 class="card-subtitle text-muted">10:33</h6>
       </div>
       <div class="card-footer text-muted">ADHD Vision</div>
     </div>
@@ -150,11 +160,12 @@ I am not a doctor, not a psychiatrist, so, bellow I list other sources that go m
 
   <div class="col-md-3 mb-1">
     <div class="card">
-      <img src="https://i.ytimg.com/vi/JiwZQNYlGQI/maxresdefault.jpg" class="card-img-top" alt="JiwZQNYlGQI">
+      <a href="https://www.youtube.com/watch?v=JiwZQNYlGQI" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/JiwZQNYlGQI/maxresdefault.jpg" class="card-img-top" alt="JiwZQNYlGQI">
+      </a>
       <div class="card-body">
         <h5 class="card-title">Failing at Normal: An ADHD Success Story | Jessica McCabe</h5>
-        <h6 class="card-subtitle mb-2 text-muted">17:12</h6>
-        <a href="https://www.youtube.com/watch?v=JiwZQNYlGQI" class="btn btn-primary stretched-link">Watch</a>
+        <h6 class="card-subtitle text-muted">17:12</h6>
       </div>
       <div class="card-footer text-muted">TEDxBratislava</div>
     </div>
@@ -205,7 +216,7 @@ In Georgia this is not the case.
 Specifically Dexmethylphenidate and Lisdexamfetamine are not in that list,
 so I don't know if any law applies to them specifically.
 
-Abraod, in North America, in EU, in Turkey and in other developed countries, these medications are available by prescription.
+Abroad, in North America, in EU, in Turkey and in other developed countries, these medications are available by prescription.
 In Georgia, you can not find these medication, doctors can not or will not prescribe it and you can't find it in any pharmacy.
 
 For more information about ADHD medication, have a look at this
@@ -258,15 +269,71 @@ It must be said, nothing will happen by itself,
 especially if nothing has happened in the last few decades.
 -->
 
-In past this section said that this task is in the competency of The **Ministry of Health**, but recently I have gotten response from the Ministry of Health, bellow is a small translated excerpt:
+Previously it was written here that this was within the competence of the **Ministry of Health** and
+I encouraged our readers to write official statements, but recently I received a response from the Ministry of Health
+to the official statement I wrote some time ago. Bellow is a small translated excerpt:
 
-<div class="card mb-4">
-  <div class="card-body">
+<div class="alert border border-dark border-2" role="alert">
+<p>
 In "Law of Georgia on Medicines and Pharmaceutical Activities", according to Article 1¹, Clause 49, registration of a pharmaceutical product can be carried out by the manufacturer, trade license holder, importer or any other natural or legal person interested in placing the pharmaceutical product on the market. And the wholesale distributor has the right to import the pharmaceutical product (Clause 21 of Article 11 of the same law), who is authorized to carry out operations related to the purchase, storage, supply, export, import and re-export of pharmaceutical products, in compliance with the rules established by law. Therefore, Minister of IDPs from the occupied territories, labour, health and social affairs of Georgia is deprived of the opportunity to register and/or import pharmaceutical products.
-  </div>
+</p>
 </div>
 
-I am currently looking for the next course of action according this statement. If you have any ideas, contact me on the email provided at the bottom of this page. If you know someone who is involved in pharmaceutical business, please show them our page.
+My assumption was that, based on the official statements, the Ministry of Health would have the initiative
+to negotiate with importers and wholesalers. I already knew that the Ministry of Health itself
+does not import pharmaceuticals. It seems strange to me that a patient has to beg importers and wholesalers
+for a pharmaceutical they require, but it seems that is exactly what we will have to do.
+
+I am currently looking for the next course of action according this response. If you have any ideas,
+contact me on the email provided at the bottom of this page.
+If you know someone who is involved in pharmaceutical business, please show them our page.
+
+# Alternative solutions
+Ever since I made this page, I have gotten several responses from our readers for alternative solutions to treat ADHD.
+You'll find them bellow.
+
+Different methods or combinations of methods may or may not work for different people.
+Picking only one method may not bring much results without combining with another.
+
+## Diet and Supplements
+### Keto Diet and Carnivore Diet
+Both Keto Diet and Carnivore Diet have lots of positive effect on physical and mental health.
+I have gotten a response from a reader who has benefited from a Carnivore Diet and can freely read/work for 8 hours.
+In his own words, "Thanks to this diet, I have 100 times better concentration than a healthy person."
+
+<div class="row">
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=HLF29w6YqXs" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/HLF29w6YqXs/hqdefault.jpg" class="card-img-top" alt="HLF29w6YqXs">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">Joe Rogan - Jordan Peterson's Carnivore Diet Cured His Depression?</h5>
+        <h6 class="card-subtitle text-muted">28:54</h6>
+      </div>
+      <div class="card-footer text-muted">JRE Clips</div>
+    </div>
+  </div>
+
+</div>
+
+### OMEGA-3.
+OMEGA-3 can help 1/3 of ADHD havers, because they have a specific gene. The best results come after 3 months.
+
+## Nootropics
+**Please don't try these without consulting with your doctor first.**
+
+- Citicoline
+- Piracetam
+
+## Other medication (Not recommended)
+Medication that was made for a different purpose but has some effect on ADHD.
+These are worse then Atomoxetine. Not recommended due to side effects.
+**Please don't try these without consulting with your doctor first.**
+
+- Clonidine
+- Duloxetine
 
 # Map
 [Source](https://www.reddit.com/r/ADHD/comments/gxrru2/so_i_did_some_research_and_made_a_map_on/)
