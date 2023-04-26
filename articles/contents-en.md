@@ -1,4 +1,6 @@
-Due to demand, I have added an English page. All references to "Georgia" on this page refers to the country of Georgia.
+Due to non-zero demand, I have added an English page for foreigners staying in Georgia.  
+All references to "Georgia" on this page refers to the country of Georgia.  
+The English version of this article usually lags behind the Georgian version as I don't have lots of time to translate.
 
 # What is ADHD?
 
@@ -6,26 +8,19 @@ Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental disorder
 characterised by excessive amounts of inattention, hyperactivity, and impulsivity that are pervasive,
 impairing in multiple contexts, and otherwise age-inappropriate.
 
-For as long as humans existed, there were always those among them who had ADHD,
-but this would not be considered a disorder, until the modern time,
-this was just a feature. Like how one person has blonde hair, the other would have black hair.
-Hundred thousand years ago, the society needed this sort of diversification,
-we had "farmers" (with good attention), and we had "hunters" (ADHD havers).
+ADHD has many different causes: several different genes, diet, environment, etc. 
+Although no one knows the exact reason ADHD exists, there are many theories, some of which are listed at the end of this article.
 
-Today, life is very different compared to how it was hundred thousand years ago. As time went on,
-schools and professions were being invented while the proportion of ADHD havers were decreasing,
-(probably with the "natural selection" method, ADHD has many causes, one of them being - few different genes.)
-
-Today, all of us are subjected to school form a young age, required to attend for hours every week day,
+Regardless of the exact reason, today, all of us are subjected to school form a young age, required to attend for hours every week day,
 being required to pay attention at all times, doing homework, memorizing text (carefully reading)
 and as an adult, 8-14 hours of work (that has to be done with attention),
 and concurrently quick learning of new material for purpose of career advancement.
-For reasons mentioned above, ADHD is considered a disorder in modern times and is a real problem.
+For reasons mentioned above, ADHD is considered a disorder and is a real problem.
 
 ADHD is characterised by many symptoms, but, because ADHD has been most studied in children,
-the name only focuses on attention deficit and hyperactivity,
-as these are the most easily noticeable symptoms in children.
-But the symptoms still last into adulthood and some are manifested differently from children.
+the name only focuses on attention deficit and hyperactivity, as these are the most easily noticeable symptoms in children. 
+This is why, the name of this disease can be misleading and a person with ADHD can have attention deficit without hyperactivity.
+The symptoms still last into adulthood and some are manifested differently from children.
 
 The most noticeable and problematic symptom that is noticeable in all age group is **lack of attention control**.
 In practice, this means, academic success is very difficult, one very specific example,
@@ -44,7 +39,7 @@ F90.0, F90.1, F90.2, F90.8, F90.9.
 
 # How to treat ADHD?
 ADHD is caused by a deficiency of specific neurotransmitters in the brain, norepinephrine and/or dopamine,
-and is treated by daily correction using medication. Medicines that are not available in Georgia for an unknown reason.
+and is treated by using medication. Medicines that are not available in Georgia for an unknown reason.
 
 There is a non-medicated methods, "therapy", but it is often combined with medication.
 The main purpose of therapy is to deal with minor problems that medication cannot deal with.
@@ -61,7 +56,8 @@ The equivalent of blindness for this "therapy" would be to help the blind person
 (hearing, smell, touch, etc.), but the main problem would not be solved.
 This will simply be an attempt to avoid the problem.
 
-(NOTE: I need help rewriting this section to be as objective and factually accurate as possible.)
+At the bottom of the page I have listed alternative ways to deal with ADHD 
+that are less effective than medication. In other words, "they are better than absolutely nothing".
 
 # Other sources of information.
 I am not a doctor, not a psychiatrist, so, bellow I list other sources that go more in depth about ADHD.
@@ -271,12 +267,17 @@ especially if nothing has happened in the last few decades.
 
 Previously it was written here that this was within the competence of the **Ministry of Health** and
 I encouraged our readers to write official statements, but recently I received a response from the Ministry of Health
-to the official statement I wrote some time ago. Bellow is a small translated excerpt:
+to the official statement I wrote some time ago. Bellow is my translation, (original statement available on the Georgian version of this page):
 
 <div class="alert border border-dark border-2" role="alert">
-<p>
-In "Law of Georgia on Medicines and Pharmaceutical Activities", according to Article 1¹, Clause 49, registration of a pharmaceutical product can be carried out by the manufacturer, trade license holder, importer or any other natural or legal person interested in placing the pharmaceutical product on the market. And the wholesale distributor has the right to import the pharmaceutical product (Clause 21 of Article 11 of the same law), who is authorized to carry out operations related to the purchase, storage, supply, export, import and re-export of pharmaceutical products, in compliance with the rules established by law. Therefore, Minister of IDPs from the occupied territories, labour, health and social affairs of Georgia is deprived of the opportunity to register and/or import pharmaceutical products.
-</p>
+<p>Dear Giorgi,</p>
+
+<p>In response to your statement regarding the availability of the drugs: Methylphenidate, Dexmethylphenidate and Dextroamphetamine in Georgia, we inform you that the drugs for attention deficit hyperactivity disorder (ADHD): Methylphenidate, Dexmethylphenidate, Dextroamphetamine and the pharmaceutical products containing them, as of today, are not registered in Georgia in the pharmaceutical market.</p>
+
+<p>In "Law of Georgia on Medicines and Pharmaceutical Activities", according to Article 1¹, Clause 49, registration of a pharmaceutical product can be carried out by the manufacturer, trade license holder, importer or any other natural or legal person interested in placing the pharmaceutical product on the market. And the wholesale distributor has the right to import the pharmaceutical product (Clause 21 of Article 11 of the same law), who is authorized to carry out operations related to the purchase, storage, supply, export, import and re-export of pharmaceutical products, in compliance with the rules established by law. Therefore, Minister of IDPs from the occupied territories, labour, health and social affairs of Georgia is deprived of the opportunity to register and/or import pharmaceutical products.</p>
+
+<p>In addition, we inform you that the legislation of Georgia provides for the possibility of importing medicinal products (including unregistered medicinal products in Georgia) for non-commercial purposes, for the individual needs of the patient, in accordance with the amounts determined by N01-31/N and N01-32/N Orders of June 15, 2011.</p>
+
 </div>
 
 My assumption was that, based on the official statements, the Ministry of Health would have the initiative
@@ -287,6 +288,10 @@ for a pharmaceutical they require, but it seems that is exactly what we will hav
 I am currently looking for the next course of action according this response. If you have any ideas,
 contact me on the email provided at the bottom of this page.
 If you know someone who is involved in pharmaceutical business, please show them our page.
+
+Regarding the last paragraph, it does not work. You can bring in a maximum 31 days supply in your luggage with appropriate paperwork, 
+which seems to be convenient only for people travelling into the country for a short time, but not for those who reside here.
+You can't import it by ordering it, the stimulants seem to be exempt for some reason.
 
 # Alternative solutions
 Ever since I made this page, I have gotten several responses from our readers for alternative solutions to treat ADHD.
@@ -305,6 +310,19 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
 
   <div class="col-md-3 mb-1">
     <div class="card">
+      <a href="https://www.youtube.com/watch?v=uJGayLwJHXI" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/uJGayLwJHXI/maxresdefault.jpg" class="card-img-top" alt="uJGayLwJHXI">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">The Best Remedy for ADD/ADHD (Attention Deficit Disorder)</h5>
+        <h6 class="card-subtitle text-muted">14:56</h6>
+      </div>
+      <div class="card-footer text-muted">Dr. Eric Berg DC</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
       <a href="https://www.youtube.com/watch?v=HLF29w6YqXs" class="stretched-link">
         <img src="https://i.ytimg.com/vi/HLF29w6YqXs/hqdefault.jpg" class="card-img-top" alt="HLF29w6YqXs">
       </a>
@@ -316,6 +334,33 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
     </div>
   </div>
 
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=JATFrKrG9Cc" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/JATFrKrG9Cc/maxresdefault.jpg" class="card-img-top" alt="JATFrKrG9Cc">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">What Is the Ketogenic Diet? – Dr. Berg</h5>
+        <h6 class="card-subtitle text-muted">15:26</h6>
+      </div>
+      <div class="card-footer text-muted">Dr. Eric Berg DC</div>
+    </div>
+  </div>
+
+
+  <div class="col-md-3 mb-1">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=v0lrJXU92-Q" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/v0lrJXU92-Q/maxresdefault.jpg" class="card-img-top" alt="v0lrJXU92-Q">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">What SHOULD You Drink During Fasting: ACCEPTABLE LIQUIDS - Dr. Berg</h5>
+        <h6 class="card-subtitle text-muted">13:26</h6>
+      </div>
+      <div class="card-footer text-muted">Dr. Eric Berg DC</div>
+    </div>
+  </div>
+
 </div>
 
 ### OMEGA-3.
@@ -323,6 +368,7 @@ OMEGA-3 can help 1/3 of ADHD havers, because they have a specific gene. The best
 
 ## Nootropics
 **Please don't try these without consulting with your doctor first.**
+Combination of the following 2 nootripics:
 
 - Citicoline
 - Piracetam
@@ -346,6 +392,27 @@ Depends on what you mean by addiction. The word "addiction" is often misused. In
 Let's make an example, let's say a doctor has given as an asthma diagnosis and prescribed a medication that makes living with asthma easier. Does this medicine do its job? Yes. Do we need it to do it's job? Yes. Does this technically make as addicted to this medication? Yes. What is the alternative? That you'd have to consult with your doctor.
 
 The above answer implies the medication taken is in the doses prescribed by the doctor. This only becomes a problem, if the medication is taken in higher dose then prescribed systematically or without doctors prescription. Specifically to avoid bad dependence, stimulants only prescribed in lower doses for ADHD. One purpose of prescription is to control the dose. I can bring an argument that taking anything in high enough dose can lead to a bad result, regardless if it requires a prescription. This is why I see no problem with allowing doctors to prescribe stimulants. **We do not condone patients to take medication (especially stimulants) without a doctors prescription.**
+
+# Theories
+Nobody knows the exact reason ADHD exists, but here are some well known theories
+
+### Hunters vs Farmers theory
+For as long as humans existed, there were always those among them who had ADHD,
+but this would not be considered a disorder, until the modern time,
+this was just a feature. Like how one person has blonde hair, the other would have black hair.
+Hundred thousand years ago, the society needed this sort of diversification,
+we had "farmers" (with good attention), and we had "hunters" (ADHD havers).
+
+Today, life is very different compared to how it was hundred thousand years ago. As time went on,
+schools and professions were being invented while the proportion of ADHD havers were decreasing,
+(probably with the "natural selection" method).
+
+As stated at the top of the article, because today we all need to study, work long hours and advance our carriers,
+ADHD is a real problem and makes our life difficult.
+
+### Stressful environment theory
+--  This will be added in future --
+
 
 # About this page
 This page is made by a private individual who has no relations with any company.
