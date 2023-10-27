@@ -90,7 +90,7 @@ ADHD გამოწვეულია თავის ტვინში სპ
 ### ინგლისურად (YouTube ვიდეოები):
 <div class="row">
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=jyUVc0Iteb0" class="stretched-link">
         <img src="https://i.ytimg.com/vi/jyUVc0Iteb0/maxresdefault.jpg" class="card-img-top" alt="jyUVc0Iteb0">
@@ -103,7 +103,7 @@ ADHD გამოწვეულია თავის ტვინში სპ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=yoX0vEDn5a4" class="stretched-link">
         <img src="https://i.ytimg.com/vi/yoX0vEDn5a4/maxresdefault.jpg" class="card-img-top" alt="yoX0vEDn5a4">
@@ -116,7 +116,7 @@ ADHD გამოწვეულია თავის ტვინში სპ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=-8J4wl9eUe4" class="stretched-link">
         <img src="https://i.ytimg.com/vi/-8J4wl9eUe4/maxresdefault.jpg" class="card-img-top" alt="-8J4wl9eUe4">
@@ -129,7 +129,7 @@ ADHD გამოწვეულია თავის ტვინში სპ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=5l2RIOhDXvU" class="stretched-link">
         <img src="https://i.ytimg.com/vi/5l2RIOhDXvU/maxresdefault.jpg" class="card-img-top" alt="5l2RIOhDXvU">
@@ -142,7 +142,7 @@ ADHD გამოწვეულია თავის ტვინში სპ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=JrI7Es_YtJ8" class="stretched-link">
         <img src="https://i.ytimg.com/vi/JrI7Es_YtJ8/maxresdefault.jpg" class="card-img-top" alt="JrI7Es_YtJ8">
@@ -155,7 +155,7 @@ ADHD გამოწვეულია თავის ტვინში სპ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=rQC_MymDaTY" class="stretched-link">
         <img src="https://i.ytimg.com/vi/rQC_MymDaTY/maxresdefault.jpg" class="card-img-top" alt="rQC_MymDaTY">
@@ -168,7 +168,7 @@ ADHD გამოწვეულია თავის ტვინში სპ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=JiwZQNYlGQI" class="stretched-link">
         <img src="https://i.ytimg.com/vi/JiwZQNYlGQI/maxresdefault.jpg" class="card-img-top" alt="JiwZQNYlGQI">
@@ -314,7 +314,21 @@ ADHD-სთვის შექმნილი მედიკამენტე�
 
 <div class="row">
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=isIw2AN_-XU" class="stretched-link">
+        <img src="/assets/img/thumbs/isIw2AN_-XU.webp" class="card-img-top" alt="isIw2AN_-XU">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">Carnivore Diet: Why would it work? What about Nutrients and Fiber?</h5>
+        <h6 class="card-subtitle text-muted">19:33</h6>
+      </div>
+      <div class="card-footer text-muted">What I've Learned </div>
+    </div>
+  </div>
+
+
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=uJGayLwJHXI" class="stretched-link">
         <img src="https://i.ytimg.com/vi/uJGayLwJHXI/maxresdefault.jpg" class="card-img-top" alt="uJGayLwJHXI">
@@ -327,7 +341,7 @@ ADHD-სთვის შექმნილი მედიკამენტე�
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=HLF29w6YqXs" class="stretched-link">
         <img src="https://i.ytimg.com/vi/HLF29w6YqXs/hqdefault.jpg" class="card-img-top" alt="HLF29w6YqXs">
@@ -340,7 +354,7 @@ ADHD-სთვის შექმნილი მედიკამენტე�
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=JATFrKrG9Cc" class="stretched-link">
         <img src="https://i.ytimg.com/vi/JATFrKrG9Cc/maxresdefault.jpg" class="card-img-top" alt="JATFrKrG9Cc">
@@ -354,7 +368,7 @@ ADHD-სთვის შექმნილი მედიკამენტე�
   </div>
 
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=v0lrJXU92-Q" class="stretched-link">
         <img src="https://i.ytimg.com/vi/v0lrJXU92-Q/maxresdefault.jpg" class="card-img-top" alt="v0lrJXU92-Q">
@@ -430,7 +444,7 @@ ADHD-ს მქონე 1/3-ს აქვს სპეციფიური გ
 
 <div class="row">
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=SsA-aMtagA0" class="stretched-link">
         <img src="https://i.ytimg.com/vi/SsA-aMtagA0/maxresdefault.jpg" class="card-img-top" alt="SsA-aMtagA0">
@@ -443,7 +457,7 @@ ADHD-ს მქონე 1/3-ს აქვს სპეციფიური გ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=Sbcr5pndmms" class="stretched-link">
         <img src="https://i.ytimg.com/vi/Sbcr5pndmms/maxresdefault.jpg" class="card-img-top" alt="Sbcr5pndmms">
@@ -456,7 +470,7 @@ ADHD-ს მქონე 1/3-ს აქვს სპეციფიური გ
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=emSAYWIMTHs" class="stretched-link">
         <img src="https://i.ytimg.com/vi/emSAYWIMTHs/maxresdefault.jpg" class="card-img-top" alt="emSAYWIMTHs">
@@ -464,6 +478,19 @@ ADHD-ს მქონე 1/3-ს აქვს სპეციფიური გ
       <div class="card-body">
         <h5 class="card-title">Do you need a VISA to move to Germany?</h5>
         <h6 class="card-subtitle text-muted">15:02</h6>
+      </div>
+      <div class="card-footer text-muted">Simple Germany</div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-3">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=jChIKkuOIG8" class="stretched-link">
+        <img src="https://i.ytimg.com/vi/jChIKkuOIG8/maxresdefault.jpg" class="card-img-top" alt="jChIKkuOIG8">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">Immigration to Germany has never been easier! [2023 Update]</h5>
+        <h6 class="card-subtitle text-muted">13:59</h6>
       </div>
       <div class="card-footer text-muted">Simple Germany</div>
     </div>

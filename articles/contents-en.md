@@ -75,7 +75,7 @@ I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go m
 ### English (YouTube videos):
 <div class="row">
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=jyUVc0Iteb0" class="stretched-link">
         <img src="https://i.ytimg.com/vi/jyUVc0Iteb0/maxresdefault.jpg" class="card-img-top" alt="jyUVc0Iteb0">
@@ -88,7 +88,7 @@ I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go m
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=yoX0vEDn5a4" class="stretched-link">
         <img src="https://i.ytimg.com/vi/yoX0vEDn5a4/maxresdefault.jpg" class="card-img-top" alt="yoX0vEDn5a4">
@@ -101,7 +101,7 @@ I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go m
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=-8J4wl9eUe4" class="stretched-link">
         <img src="https://i.ytimg.com/vi/-8J4wl9eUe4/maxresdefault.jpg" class="card-img-top" alt="-8J4wl9eUe4">
@@ -114,7 +114,7 @@ I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go m
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=5l2RIOhDXvU" class="stretched-link">
         <img src="https://i.ytimg.com/vi/5l2RIOhDXvU/maxresdefault.jpg" class="card-img-top" alt="5l2RIOhDXvU">
@@ -127,7 +127,7 @@ I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go m
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=JrI7Es_YtJ8" class="stretched-link">
         <img src="https://i.ytimg.com/vi/JrI7Es_YtJ8/maxresdefault.jpg" class="card-img-top" alt="JrI7Es_YtJ8">
@@ -140,7 +140,7 @@ I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go m
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=rQC_MymDaTY" class="stretched-link">
         <img src="https://i.ytimg.com/vi/rQC_MymDaTY/maxresdefault.jpg" class="card-img-top" alt="rQC_MymDaTY">
@@ -153,7 +153,7 @@ I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go m
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=JiwZQNYlGQI" class="stretched-link">
         <img src="https://i.ytimg.com/vi/JiwZQNYlGQI/maxresdefault.jpg" class="card-img-top" alt="JiwZQNYlGQI">
@@ -297,7 +297,20 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
 
 <div class="row">
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=isIw2AN_-XU" class="stretched-link">
+        <img src="/assets/img/thumbs/isIw2AN_-XU.webp" class="card-img-top" alt="isIw2AN_-XU">
+      </a>
+      <div class="card-body">
+        <h5 class="card-title">Carnivore Diet: Why would it work? What about Nutrients and Fiber?</h5>
+        <h6 class="card-subtitle text-muted">19:33</h6>
+      </div>
+      <div class="card-footer text-muted">What I've Learned </div>
+    </div>
+  </div>
+
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=uJGayLwJHXI" class="stretched-link">
         <img src="https://i.ytimg.com/vi/uJGayLwJHXI/maxresdefault.jpg" class="card-img-top" alt="uJGayLwJHXI">
@@ -310,7 +323,7 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=HLF29w6YqXs" class="stretched-link">
         <img src="https://i.ytimg.com/vi/HLF29w6YqXs/hqdefault.jpg" class="card-img-top" alt="HLF29w6YqXs">
@@ -323,7 +336,7 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
     </div>
   </div>
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=JATFrKrG9Cc" class="stretched-link">
         <img src="https://i.ytimg.com/vi/JATFrKrG9Cc/maxresdefault.jpg" class="card-img-top" alt="JATFrKrG9Cc">
@@ -337,7 +350,7 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
   </div>
 
 
-  <div class="col-md-3 mb-1">
+  <div class="col-md-3 mb-3">
     <div class="card">
       <a href="https://www.youtube.com/watch?v=v0lrJXU92-Q" class="stretched-link">
         <img src="https://i.ytimg.com/vi/v0lrJXU92-Q/maxresdefault.jpg" class="card-img-top" alt="v0lrJXU92-Q">
