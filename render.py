@@ -43,7 +43,8 @@ classesDict = {"table": "table"}
 extras = {
     "tables": None,
     "html-classes": classesDict,
-    "target-blank-links": None
+    "target-blank-links": None,
+    "strike": None
 }
 
 for article in articles:
