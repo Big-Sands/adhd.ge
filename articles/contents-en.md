@@ -1,4 +1,4 @@
-Due to non-zero demand, I have added an English page for foreigners staying in Georgia.  
+Due to demand by foreigners staying in Georgia, I have added an English page.
 All references to "Georgia" on this page refers to the country of Georgia.  
 The English version of this article usually lags behind the Georgian version as I don't have lots of time to translate.
 
@@ -9,7 +9,7 @@ characterised by excessive amounts of inattention, hyperactivity, and impulsivit
 impairing in multiple contexts, and otherwise age-inappropriate.
 
 ADHD has many different causes: several different genes, diet, environment, etc. 
-Although no one knows the exact reason ADHD exists, there are many theories, some of which are listed at the end of this article.
+Although no one knows the exact reason ADHD exists, there are many theories, but talking about them is not why I made this website.
 
 Regardless of the exact reason, today, all of us are subjected to school form a young age, required to attend for hours every week day,
 being required to pay attention at all times, doing homework, memorizing text (carefully reading)
@@ -41,13 +41,12 @@ F90.0, F90.1, F90.2, F90.8, F90.9.
 ADHD is caused by a deficiency of specific neurotransmitters in the brain, norepinephrine and/or dopamine,
 and is treated by using medication. Medicines that are not available in Georgia for an unknown reason.
 
-There is a non-medicated methods, "therapy", but it is often combined with medication.
+There is a non-medicated solution, "therapy", but it is often combined with medication.
 The main purpose of therapy is to deal with minor problems that medication cannot deal with.
 
-Therapy without medication is not the primary treatment for ADHD. Because the effectiveness of this is often
-questionable, it is a very long process, it takes months, while the medicine (stimulant) works in half an hour,
-the long process also means many visits to the psychiatrist, which will be very expensive in total,
-and this non-drug "therapy" cannot correct the imbalance of neurotransmitters by itself.
+Therapy without medication is not an effective treatment for ADHD symptoms. It is a very long process, meaning, 
+many visits to the psychiatrist, which is a huge waste of money, while the medication (stimulant) works in half an hour.
+This non-medicated "therapy" cannot correct the imbalance of neurotransmitters by itself.
 
 According to one article "The view that attention deficit can be overcome by willpower is as cynical
 as advising a blind person to see by changing their lifestyle."
@@ -60,7 +59,7 @@ At the bottom of the page I have listed alternative ways to deal with ADHD
 that are less effective than medication. In other words, "they are better than absolutely nothing".
 
 # Other sources of information.
-I am not a doctor, not a psychiatrist, so, bellow I list other sources that go more in depth about ADHD.
+I am not a doctor, nor a psychiatrist, so, bellow I list other sources that go more in depth about ADHD.
 ### English:
   - [Attention deficit hyperactivity disorder - Wikipedia](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder)
   - [What is ADHD? | CDC](https://www.cdc.gov/ncbddd/adhd/facts.html)
@@ -187,16 +186,15 @@ ADHD medication is split into 2 groups, stimulants and non-stimulants. In this t
 | [Atomoxetine](https://en.wikipedia.org/wiki/Atomoxetine)  | Strattera <br>Amatrix |
 | [Viloxazine](https://en.wikipedia.org/wiki/Viloxazine)    | Qelbree               |
 
+#### To put if briefly, there is practically nothing.
 
+Only **Atomoxetine** is registered, with "Amatrix" and "Strattera" brands.
 
-In Georgia, only **Atomoxetine** is registered, with "Amatrix" and "Strattera" brands.
+Amatrix is a Turkish made medication, (has not been made cheaper like other Turkish medication imported into Georgia,) and in fact, is only available in useless doses, 10 mg / 25 mg,
+This is why it approximately costs 565 GEL per month, 80 mg a day, (28 pills, 10 mg = 70.71 GEL, x 8 = 565.68 GEL).
+Even in these useless doses, it's hard to find, and you have to run around the city to get enough for a month.
 
-Amatrix is a Turkish made medication and has not been made cheaper like other Turkish medication imported into Georgia,
-This is why it approximately costs 200-250 GEL per month (on sale), 80 mg a day.
-Amatrix supply is likely out of stock, I can't find it anywhere.
-When there was some supply, I had to check few pharmacies to find anything.
-
-Strattera is newly registered (in last 6 months) and I can't find it anywhere yet.
+Strattera is relatively newly registered and I can't find it anywhere.
 
 The problem with Atomoxetine and other non-stimulants are, it takes a few weeks for it to have any effect,
 they have terrible side effects, and even if someone can cope with these side effects for few weeks, the result is going to be very small.
@@ -209,9 +207,6 @@ the doctors there can prescribe it when they think their patient needs it
 and the patients can purchase them normally with their prescription.
 In Georgia this is not the case.
 
-Specifically Dexmethylphenidate and Lisdexamfetamine are not in that list,
-so I don't know if any law applies to them specifically.
-
 Abroad, in North America, in EU, in Turkey and in other developed countries, these medications are available by prescription.
 In Georgia, you can not find these medication, doctors can not or will not prescribe it and you can't find it in any pharmacy.
 
@@ -220,6 +215,9 @@ For more information about ADHD medication, have a look at this
 
 Those who want to check which medications are registered in Georgia can have a look at this page:
 [http://apps.ssa.gov.ge/recepti/Camlebi](http://apps.ssa.gov.ge/recepti/Camlebi)
+
+To put it briefly, there is a very less effective medication out there, atomoxetine, and we don't even have that.
+
 
 # Why was this page created?
 In USA, (and other developed countries) they have been taking ADHD seriously for the past 50 years.
@@ -231,7 +229,6 @@ This page was made out of necessity.
 The goal of this page is to raise awareness about ADHD in the Georgian Healthcare System, because
 in Georgia we definitely need the first line medication for ADHD and push for change.
 
-
 # What are we asking for (in detail)
 To prevent any misunderstandings, bellow I list everything we are asking for: (everything listed is important)
 
@@ -242,13 +239,6 @@ To prevent any misunderstandings, bellow I list everything we are asking for: (e
   - It must be available in the dose and release duration combinations to be practically useful in all situations
     - This means, the availability of both short-acting and long-acting variants and in practically useful doses
   - Because ADHD practically requires daily medication, doctors should be free to prescribe it every month and indefinitely.
-  - All conditions of this article must to be done right for every ADHD having citizen to effectively deal with ADHD.
-- Through doctor's prescription, availability of at least 1 ADHD non-stimulant NRI (Norepinephrine reuptake inhibitor) type medication
-  - It must be in stock at all times
-  - It must be available for a reasonable price
-  - It must be available in doses commonly prescribed by doctors.
-- No time can be wasted throughout this process. The priority should be shifted to the request that can be performed in the shortest time. At the same time, some progress should be made on all requests.
-
 
 # What can cause a push for change?
 <!-- 
@@ -266,8 +256,8 @@ especially if nothing has happened in the last few decades.
 -->
 
 Previously it was written here that this was within the competence of the **Ministry of Health** and
-I encouraged our readers to write official statements, but recently I received a response from the Ministry of Health
-to the official statement I wrote some time ago. Bellow is my translation, (original statement available on the Georgian version of this page):
+I encouraged our readers to write official statements, but in February 2023, I received a response from the Ministry of Health
+to the official statement I wrote months prior. Bellow is my translation, (original statement available on the Georgian version of this page):
 
 <div class="alert border border-dark border-2" role="alert">
 <p>Dear Giorgi,</p>
@@ -281,12 +271,11 @@ to the official statement I wrote some time ago. Bellow is my translation, (orig
 </div>
 
 My assumption was that, based on the official statements, the Ministry of Health would have the initiative
-to negotiate with importers and wholesalers. I already knew that the Ministry of Health itself
-does not import pharmaceuticals. It seems strange to me that a patient has to beg importers and wholesalers
-for a pharmaceutical they require, but it seems that is exactly what we will have to do.
+to negotiate with importers and wholesalers. It seems strange to me that a patient has to beg importers and wholesalers
+for a pharmaceutical they require.
 
-I am currently looking for the next course of action according this response. If you have any ideas,
-contact me on the email provided at the bottom of this page.
+~~I am currently looking for the next course of action according this response.~~ There is no progress from my side on the issue at hand.
+If you have any ideas, contact me on the email provided at the bottom of this page.
 If you know someone who is involved in pharmaceutical business, please show them our page.
 
 Regarding the last paragraph, it does not work. You can bring in a maximum 31 days supply in your luggage with appropriate paperwork, 
@@ -366,7 +355,7 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
 ### OMEGA-3.
 OMEGA-3 can help 1/3 of ADHD havers, because they have a specific gene. The best results come after 3 months.
 
-## Nootropics
+## Nootropics (Not recommended)
 **Please don't try these without consulting with your doctor first.**
 Combination of the following 2 nootripics:
 
@@ -375,16 +364,26 @@ Combination of the following 2 nootripics:
 
 ## Other medication (Not recommended)
 Medication that was made for a different purpose but has some effect on ADHD.
-These are worse then Atomoxetine. Not recommended due to side effects.
 **Please don't try these without consulting with your doctor first.**
 
-- Clonidine
-- Duloxetine
+- Modafinil - They sell this [https://an1.ge/Home/About#](https://an1.ge/Home/About#), this is very recent.
+
+(We have no relation with an1.ge and just mention their existence)
+
+## AVOID AT ALL COSTS
+### Phenibut
+Incompetent "psychiatrists" prescribe Phenibut to patients visiting regarding ADHD. This substance is dangerous, 
+it is not regulated in Georgia, it causes dependence, has the worst withdrawal among **any substance known to man**.
+If you unfortunately already started using it, please see the quitting instructions linked bellow
+and contact your doctor if you do not understand something.
+
+[https://old.reddit.com/r/quittingphenibut](https://old.reddit.com/r/quittingphenibut)
 
 # Map
 [Source](https://www.reddit.com/r/ADHD/comments/gxrru2/so_i_did_some_research_and_made_a_map_on/)
 [<img src="/assets/img/world-adhd-map-small.png" alt="adhd-map" class="img-fluid">](/assets/img/world-adhd-map.png)
 
+<!--
 # Frequently asked questions
 ### Can stimulants cause addiction?
 Depends on what you mean by addiction. The word "addiction" is often misused. In order to answer this question, it is necessary to ask, "Does this medicine do its job?".
@@ -393,31 +392,14 @@ Let's make an example, let's say a doctor has given as an asthma diagnosis and p
 
 The above answer implies the medication taken is in the doses prescribed by the doctor. This only becomes a problem, if the medication is taken in higher dose then prescribed systematically or without doctors prescription. Specifically to avoid bad dependence, stimulants only prescribed in lower doses for ADHD. One purpose of prescription is to control the dose. I can bring an argument that taking anything in high enough dose can lead to a bad result, regardless if it requires a prescription. This is why I see no problem with allowing doctors to prescribe stimulants. **We do not condone patients to take medication (especially stimulants) without a doctors prescription.**
 
-# Theories
-Nobody knows the exact reason ADHD exists, but here are some well known theories
-
-### Hunters vs Farmers theory
-For as long as humans existed, there were always those among them who had ADHD,
-but this would not be considered a disorder, until the modern time,
-this was just a feature. Like how one person has blonde hair, the other would have black hair.
-Hundred thousand years ago, the society needed this sort of diversification,
-we had "farmers" (with good attention), and we had "hunters" (ADHD havers).
-
-Today, life is very different compared to how it was hundred thousand years ago. As time went on,
-schools and professions were being invented while the proportion of ADHD havers were decreasing,
-(probably with the "natural selection" method).
-
-As stated at the top of the article, because today we all need to study, work long hours and advance our carriers,
-ADHD is a real problem and makes our life difficult.
-
-### Stressful environment theory
---  This will be added in future --
+^ This section has been removed to prevent misunderstandings.
+-->
 
 
 # About this page
 This page is made by a private individual who has no relations with any company.
 The creator of this page is neither a doctor or a psychiatrist.
-Nothing on this page should be considered medical advice. If you need a medical advice, consult a doctor.
+Nothing on this page should be considered medical or legal advice. If you need a medical advice, consult a doctor.
 The information provided on this page is my opinion, as a result of a large amount of research.
 I am not responsible for how you make use of the information provided here.
 
