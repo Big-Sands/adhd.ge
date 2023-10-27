@@ -1,0 +1,10 @@
+:root {
+    --bs-primary: #E1BEE7;
+    --bs-primary-rgb: 225, 190, 231;
+    --bs-primary-text: #E1BEE7;
+    --bs-blue: #E1BEE7;
+}
+
+.navbar {
+    background-color: #e5dce8;
+}
