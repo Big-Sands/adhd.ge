@@ -38,7 +38,9 @@ articles = [
 with open("template.html", "r") as template_file:
     template = template_file.read()
 
-classesDict = {"table": "table"}
+classesDict = {
+    "table": "table"
+}
 
 extras = {
     "tables": None,
