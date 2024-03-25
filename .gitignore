@@ -145,3 +145,6 @@ index-*.html
 
 # gimp
 *.xcf
+
+# thumbnails
+prod/assets/img/thumbs/
