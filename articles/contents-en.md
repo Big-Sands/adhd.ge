@@ -51,10 +51,6 @@ This non-medicated "therapy" cannot correct the imbalance of neurotransmitters b
 According to one article "The view that attention deficit can be overcome by willpower is as cynical
 as advising a blind person to see by changing their lifestyle."
 
-The equivalent of blindness for this "therapy" would be to help the blind person live with his other senses
-(hearing, smell, touch, etc.), but the main problem would not be solved.
-This will simply be an attempt to avoid the problem.
-
 At the bottom of the page I have listed alternative ways to deal with ADHD 
 that are less effective than medication. In other words, "they are better than absolutely nothing".
 
@@ -188,27 +184,27 @@ ADHD medication is split into 2 groups, stimulants and non-stimulants. In this t
 
 #### To put if briefly, there is practically nothing.
 
-Only **Atomoxetine** is registered, with "Amatrix" and "Strattera" brands.
+Only **Atomoxetine** is registered.
 
-Amatrix is a Turkish made medication, (has not been made cheaper like other Turkish medication imported into Georgia,) and in fact, is only available in useless doses, 10 mg / 25 mg,
-This is why it approximately costs 565 GEL per month, 80 mg a day, (28 pills, 10 mg = 70.71 GEL, x 8 = 565.68 GEL).
-Even in these useless doses, it's hard to find, and you have to run around the city to get enough for a month.
-
-Strattera is relatively newly registered and I can't find it anywhere.
-
-The problem with Atomoxetine and other non-stimulants are, it takes a few weeks for it to have any effect,
-they have terrible side effects, and even if someone can cope with these side effects for few weeks, the result is going to be very small.
+The problem with Atomoxetine and other non-stimulants are, it takes a few weeks for it to have any effect, they have 
+terrible side effects, such as suicidal ideation, vomiting, irritability, constipation, fatigue, dizziness, and insomnia
+and even if someone can cope with these side effects for few weeks, the gain is going to be very small.
 This is why, Atomoxetine is not a first-line treatment for ADHD. First line would be the stimulants.
 
-Methylphenidate, Amphetamine, Dextroamphetamine are in a list of
+If side effects aren't a deterrent, additionally, they are not available in useful doses (80mg+), and the supply is unstable. 
+Even in these useless doses, it's hard to find, and you have to run around the city to get a month worth of supply,
+and it ends up being approximately ~ 500 GEL per month, 80 mg a day.
+
+We need stimulants.
+
+Methylphenidate, Amphetamine, Dextroamphetamine are legally considered
 [narcotic drugs](https://matsne.gov.ge/ka/document/view/1979040?publication=0).
-While this is also the case in other countries, the difference is,
-the doctors there can prescribe it when they think their patient needs it
-and the patients can purchase them normally with their prescription.
+While this is also the case in other countries, the difference is, the doctors there can prescribe it 
+when they think their patient needs it and the patients can purchase them normally with their prescription.
 In Georgia this is not the case.
 
-Abroad, in North America, in EU, in Turkey and in other developed countries, these medications are available by prescription.
-In Georgia, you can not find these medication, doctors can not or will not prescribe it and you can't find it in any pharmacy.
+Abroad, (in the US, Canada, EU, Turkey and other developed countries), these medications are available by prescription.
+In Georgia, you can not find these medication, doctors can not prescribe them, and you can't find them in any pharmacy.
 
 For more information about ADHD medication, have a look at this
 [Wikipedia page](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder_management#Medications).
@@ -216,12 +212,8 @@ For more information about ADHD medication, have a look at this
 Those who want to check which medications are registered in Georgia can have a look at this page:
 [http://apps.ssa.gov.ge/recepti/Camlebi](http://apps.ssa.gov.ge/recepti/Camlebi)
 
-To put it briefly, there is a very less effective medication out there, atomoxetine, and we don't even have that.
-
-
 # Why was this page created?
-In USA, (and other developed countries) they have been taking ADHD seriously for the past 50 years.
-Also, in USA, having ADHD is considered a disability.
+In the US, (and other developed countries) they have been taking ADHD seriously for the past 50 years.
 In Georgia, nothing is happening in this regard, and it's entirely possible nothing will happen for decades to come,
 if awareness for this problem is not raised.
 
@@ -246,13 +238,6 @@ I think, this is in the competency of The **Ministry of Health**.
 
 The contact information of The Ministry of Health can be found on their official web page:
 [https://www.moh.gov.ge/ka/feedback/](https://www.moh.gov.ge/ka/feedback/)
-
-For any progress to happen, it's important to let the Ministry hear out voices, and tell them that the current situation is bad.
-Those who want to let the Ministry hear their voice can use the email or phone number on this page to contact them,
-and **fill up a form** remotely.
-
-It must be said, nothing will happen by itself,
-especially if nothing has happened in the last few decades.
 -->
 
 Previously it was written here that this was within the competence of the **Ministry of Health** and
@@ -268,26 +253,30 @@ to the official statement I wrote months prior. Bellow is my translation, (origi
 
 <p>In addition, we inform you that the legislation of Georgia provides for the possibility of importing medicinal products (including unregistered medicinal products in Georgia) for non-commercial purposes, for the individual needs of the patient, in accordance with the amounts determined by N01-31/N and N01-32/N Orders of June 15, 2011.</p>
 
+<p>
+Respectfully,  
+[REDACTED]
+</p>
+
 </div>
 
 My assumption was that, based on the official statements, the Ministry of Health would have the initiative
-to negotiate with importers and wholesalers. It seems strange to me that a patient has to beg importers and wholesalers
+to negotiate with the appropriate parties. It seems strange to me that a patient has to beg importers and wholesalers
 for a pharmaceutical they require.
 
-~~I am currently looking for the next course of action according this response.~~ There is no progress from my side on the issue at hand.
-If you have any ideas, contact me on the email provided at the bottom of this page.
-If you know someone who is involved in pharmaceutical business, please show them our page.
-
-Regarding the last paragraph, it does not work. You can bring in a maximum 31 days supply in your luggage with appropriate paperwork, 
+Regarding the last paragraph. You can bring in a maximum 31 days supply in your luggage with appropriate paperwork, 
 which seems to be convenient only for people travelling into the country for a short time, but not for those who reside here.
 You can't import it by ordering it, the stimulants seem to be exempt for some reason.
+
+If you have any ideas, contact me on the email provided at the bottom of this page.
+If you know someone who is involved in pharmaceutical business, please show them our page.
 
 # Alternative solutions
 Ever since I made this page, I have gotten several responses from our readers for alternative solutions to treat ADHD.
 You'll find them bellow.
 
 Different methods or combinations of methods may or may not work for different people.
-Picking only one method may not bring much results without combining with another.
+Picking only one method may not bring meaningful results without combining with another.
 
 ## Diet and Supplements
 ### Keto Diet and Carnivore Diet
@@ -295,6 +284,13 @@ Both Keto Diet and Carnivore Diet have lots of positive effect on physical and m
 I have gotten a response from a reader who has benefited from a Carnivore Diet and can freely read/work for 8 hours.
 In his own words, "Thanks to this diet, I have 100 times better concentration than a healthy person."
 
+<!-- TODO: expand on this -->
+
+<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#keto-videos" aria-expanded="false" aria-controls="keto-videos">
+  Videos
+</button>
+
+<div class="collapse" id="keto-videos">
 <div class="row">
 
   <div class="col-md-3 mb-3">
@@ -364,16 +360,11 @@ In his own words, "Thanks to this diet, I have 100 times better concentration th
   </div>
 
 </div>
+</div>
 
-### OMEGA-3.
-OMEGA-3 can help 1/3 of ADHD havers, because they have a specific gene. The best results come after 3 months.
-
-## Nootropics (Not recommended)
-**Please don't try these without consulting with your doctor first.**
-Combination of the following 2 nootripics:
-
-- Citicoline
-- Piracetam
+### Making sure your vitamins are not depleted.
+If you have some weird health problems, it may be worth considering checking your vitamins, such as D3 and B12.
+Also, I have heard OMEGA-3 helps some people with ADHD, look up on this if you are interested.
 
 ## Other medication (Not recommended)
 Medication that was made for a different purpose but has some effect on ADHD.
@@ -383,11 +374,11 @@ Medication that was made for a different purpose but has some effect on ADHD.
 
 (We have no relation with an1.ge and just mention their existence)
 
-## AVOID AT ALL COSTS
+## Avoid
 ### Phenibut
-Incompetent "psychiatrists" prescribe Phenibut to patients visiting regarding ADHD. This substance is dangerous, 
-it is not regulated in Georgia, it causes dependence, has the worst withdrawal among **any substance known to man**.
-If you unfortunately already started using it, please see the quitting instructions linked bellow
+Incompetent psychiatrists prescribe Phenibut to patients visiting regarding ADHD. This substance is dangerous, 
+it is not regulated in Georgia, it causes dependence, has the worst withdrawal among any substance known to man.
+If you already started using it, please see the quitting instructions linked bellow
 and contact your doctor if you do not understand something.
 
 [https://old.reddit.com/r/quittingphenibut](https://old.reddit.com/r/quittingphenibut)
@@ -395,19 +386,6 @@ and contact your doctor if you do not understand something.
 # Map
 [Source](https://www.reddit.com/r/ADHD/comments/gxrru2/so_i_did_some_research_and_made_a_map_on/)
 [<img src="/assets/img/world-adhd-map-small.png" alt="adhd-map" class="img-fluid">](/assets/img/world-adhd-map.png)
-
-<!--
-# Frequently asked questions
-### Can stimulants cause addiction?
-Depends on what you mean by addiction. The word "addiction" is often misused. In order to answer this question, it is necessary to ask, "Does this medicine do its job?".
-
-Let's make an example, let's say a doctor has given as an asthma diagnosis and prescribed a medication that makes living with asthma easier. Does this medicine do its job? Yes. Do we need it to do it's job? Yes. Does this technically make as addicted to this medication? Yes. What is the alternative? That you'd have to consult with your doctor.
-
-The above answer implies the medication taken is in the doses prescribed by the doctor. This only becomes a problem, if the medication is taken in higher dose then prescribed systematically or without doctors prescription. Specifically to avoid bad dependence, stimulants only prescribed in lower doses for ADHD. One purpose of prescription is to control the dose. I can bring an argument that taking anything in high enough dose can lead to a bad result, regardless if it requires a prescription. This is why I see no problem with allowing doctors to prescribe stimulants. **We do not condone patients to take medication (especially stimulants) without a doctors prescription.**
-
-^ This section has been removed to prevent misunderstandings.
--->
-
 
 # About this page
 This page is made by a private individual who has no relations with any company.
@@ -424,6 +402,3 @@ if you can plan a better strategy to reach out goal, join our [Discord](https://
 [<img src="/assets/img/discord-logo-blue.svg" alt="discord-logo" style="max-width: 200px;" class="rounded mx-auto d-block my-4">](https://discord.gg/R2Ft6JXc2m)
 
 Other than that I have a private e-mail `info@adhd.ge` and [Twitter](https://twitter.com/ADHDge).
-
-# Memes
-[<img src="/assets/img/adhd-in-georgia.png" alt="adhd-meme" style="max-width: 100%; max-height: 700px;" class="rounded mx-auto d-block my-4">](/assets/img/adhd-in-georgia.png)
