@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import os
 
 import markdown2
 from datetime import datetime, timedelta
@@ -54,8 +55,9 @@ for article in articles:
         contents = contents_file.read()
 
     rendered_contents = markdown2.markdown(contents, extras=extras)
-
-    timestamp = datetime.fromtimestamp(time.time(), pytz.timezone("Asia/Tbilisi"))
+    
+    modified_timestamp = os.path.getmtime(article["file"])
+    timestamp = datetime.fromtimestamp(modified_timestamp, pytz.timezone("Asia/Tbilisi"))
     expired_timestamp = timestamp + timedelta(hours=175320)
 
     rendered_page = (template.replace("{% block content %}{% endblock %}", rendered_contents))
